@@ -1,0 +1,8 @@
+python-telegram-bot
+pyrogram
+gtts
+qrcode
+pillow
+yt-dlp
+requests
+httpx
